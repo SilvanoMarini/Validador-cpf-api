@@ -61,12 +61,12 @@ Passo a passo para rodar a API:
 
 1. Clone este repositório:
 
-git clone https://github.com/seu-usuario/api-validadora-cpf.git
+git clone https://github.com/seu-usuario/validador-cpf-api.git
 
 
 2. Acesse o diretório do projeto:
 
-cd api-validadora-cpf
+cd validador-cpf-api
 
 
 3. Instale as dependências:
@@ -109,9 +109,3 @@ Se você deseja contribuir para este projeto, fique à vontade para enviar pull 
 Licença
 
 Este projeto está licenciado sob a MIT License.
-
-
----
-
-Esse README pode ser ajustado conforme a estrutura e detalhes específicos do seu projeto. Se você tiver alguma modificação, é só avisar!
-
