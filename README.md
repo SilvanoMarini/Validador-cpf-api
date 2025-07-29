@@ -54,9 +54,6 @@ Pré-requisitos
 
 Python 3.7 ou superior
 
-Flask (ou outro framework para Python, dependendo da implementação)
-
-
 Passo a passo para rodar a API:
 
 1. Clone este repositório:
