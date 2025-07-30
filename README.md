@@ -70,15 +70,12 @@ cd validador-cpf-api
 
 pip install -r requirements.txt
 
-
 4. Inicie o servidor:
 
 python app.py
 
 
 5. A API estará disponível em http://127.0.0.1:5000.
-
-
 
 Testando a API
 
@@ -100,7 +97,6 @@ Se você deseja contribuir para este projeto, fique à vontade para enviar pull 
 
 
 4. Abra um pull request.
-
 
 
 Licença
