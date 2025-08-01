@@ -58,7 +58,7 @@ Passo a passo para rodar a API:
 
 1. Clone este repositório:
 
-git clone https://github.com/seu-usuario/validador-cpf-api.git
+git clone https://github.com/SilvanoMarini/validador-cpf-api.git
 
 
 2. Acesse o diretório do projeto:
